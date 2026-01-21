@@ -1,8 +1,10 @@
 # lock-for-bruce  
 PIN / Lockscreen Script for Bruce Firmware
 
+![Lockscreen](https://i.ibb.co/4RvVH2Kc/IMG-20260121-215823.jpg)
+
 ## Important Notice
-- JavaScript interpreted files are **currently NOT supported**. Support will be added in the **next** Bruce firmware update.
+- JavaScript interpreted files are **currently NOT supported** as Startup Apps. Support will be added in the **next** Bruce firmware update.
 - The lockscreen **does not open automatically on device boot yet**.
 
 ---
@@ -12,6 +14,8 @@ PIN / Lockscreen Script for Bruce Firmware
 - iPhone-like delay after entering a wrong PIN
 - EXIT button is blocked until the correct PIN is entered
 - Logging to `/lock-for-bruce/logs.txt` (LittleFS)
+
+![Settings](https://i.ibb.co/RGKNy2G0/IMG-20260121-215845.jpg)
 
 ### Under Development
 - RFID tag unlock
