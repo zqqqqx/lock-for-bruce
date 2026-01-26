@@ -4,8 +4,7 @@ PIN / Lockscreen Script for Bruce Firmware
 ![Lockscreen](https://i.ibb.co/4RvVH2Kc/IMG-20260121-215823.jpg)
 
 ## Important Notice
-- JavaScript interpreted files are **currently NOT supported** as Startup Apps. Support will be added in the **next** Bruce firmware update.
-- The lockscreen **does not open automatically on device boot yet**.
+- This is now supported in the latest Beta update of the Bruce firmware. Flash the new update to use this script.
 
 ---
 
